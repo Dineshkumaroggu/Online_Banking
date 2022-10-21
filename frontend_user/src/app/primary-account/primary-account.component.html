@@ -1,0 +1,28 @@
+<div class="card account">
+    <div class="card-header">
+        <h5 class="card-title">Primary Account: {{acocuntNumber}}</h5>
+        <h5 class="card-title">Account Balance: {{balance}} Rs</h5>
+    </div>
+    <div class="card-body">
+      <h5 class="card-title">Recent Transactions</h5>
+      <table class="table">
+        <thead>
+          <tr> 
+            <th scope="col">Transaction Id</th>
+            <th scope="col">Description</th>
+            <th scope="col">Benificiary's Account Number</th>
+            <th scope="col">Amount Transferred</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let transaction of transactions">
+            <th scope="row">{{transaction["transactionId"]}}</th>
+            <td>{{transaction["description"]}}</td>
+            <td>{{transaction["destinationAccountnumber"]}}</td>
+            <td>{{transaction["transactionAmount"]}} Rs</td>
+          </tr>
+          
+        </tbody>
+      </table>
+    </div>
+  </div>

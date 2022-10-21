@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-18T20:41:54 IST" name="Default suite" finished-at="2022-10-18T20:42:15 IST" duration-ms="20960">
+    <groups>
+    </groups>
+    <test started-at="2022-10-18T20:41:54 IST" name="Default test" finished-at="2022-10-18T20:42:15 IST" duration-ms="20960">
+      <class name="Testing.App.NewTestchrome">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Testing.App.NewTestchrome@342c38f8]" started-at="2022-10-18T20:41:54 IST" name="beforeMethod" finished-at="2022-10-18T20:42:00 IST" duration-ms="5807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testinguser()[pri:0, instance:Testing.App.NewTestchrome@342c38f8]" started-at="2022-10-18T20:42:00 IST" name="testinguser" finished-at="2022-10-18T20:42:02 IST" duration-ms="1620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testinguser -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Testing.App.NewTestchrome@342c38f8]" started-at="2022-10-18T20:42:02 IST" name="afterMethod" finished-at="2022-10-18T20:42:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Testing.App.NewTestchrome@342c38f8]" started-at="2022-10-18T20:42:02 IST" name="beforeMethod" finished-at="2022-10-18T20:42:04 IST" duration-ms="2183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testingadmin()[pri:1, instance:Testing.App.NewTestchrome@342c38f8]" started-at="2022-10-18T20:42:04 IST" name="testingadmin" finished-at="2022-10-18T20:42:06 IST" duration-ms="1619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingadmin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Testing.App.NewTestchrome@342c38f8]" started-at="2022-10-18T20:42:06 IST" name="afterMethod" finished-at="2022-10-18T20:42:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Testing.App.NewTestchrome@342c38f8]" started-at="2022-10-18T20:42:06 IST" name="beforeMethod" finished-at="2022-10-18T20:42:08 IST" duration-ms="2314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="usersignin()[pri:2, instance:Testing.App.NewTestchrome@342c38f8]" started-at="2022-10-18T20:42:08 IST" name="usersignin" finished-at="2022-10-18T20:42:10 IST" duration-ms="2374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usersignin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Testing.App.NewTestchrome@342c38f8]" started-at="2022-10-18T20:42:10 IST" name="afterMethod" finished-at="2022-10-18T20:42:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Testing.App.NewTestchrome@342c38f8]" started-at="2022-10-18T20:42:10 IST" name="beforeMethod" finished-at="2022-10-18T20:42:13 IST" duration-ms="2562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="adminsignin()[pri:3, instance:Testing.App.NewTestchrome@342c38f8]" started-at="2022-10-18T20:42:13 IST" name="adminsignin" finished-at="2022-10-18T20:42:15 IST" duration-ms="2386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminsignin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Testing.App.NewTestchrome@342c38f8]" started-at="2022-10-18T20:42:15 IST" name="afterMethod" finished-at="2022-10-18T20:42:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Testing.App.NewTestchrome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
